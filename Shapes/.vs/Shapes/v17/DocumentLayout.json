@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MasAlecs\\source\\repos\\Shapes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC9C47-39D8-4C39-9D76-211ACE3D79A4}|UnitTestProject1\\UnitTestProject1.csproj|c:\\users\\masalecs\\source\\repos\\shapes\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EC9C47-39D8-4C39-9D76-211ACE3D79A4}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C5018F-0DE9-496F-A52F-2EEA4B6525B5}|Shapes\\Shapes.csproj|C:\\Users\\MasAlecs\\source\\repos\\Shapes\\shapes\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C5018F-0DE9-496F-A52F-2EEA4B6525B5}|Shapes\\Shapes.csproj|solutionrelative:shapes\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\MasAlecs\\source\\repos\\Shapes\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\MasAlecs\\source\\repos\\Shapes\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:11:31.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\MasAlecs\\source\\repos\\Shapes\\Shapes\\Class1.cs",
+              "RelativeDocumentMoniker": "Shapes\\Class1.cs",
+              "ToolTip": "C:\\Users\\MasAlecs\\source\\repos\\Shapes\\Shapes\\Class1.cs",
+              "RelativeToolTip": "Shapes\\Class1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:51:31.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
